@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useProducts } from "../context/ProductContext";
 import Loader from "../components/common/Loader";
 import CategoryFilter from "./CategoryFilter";
@@ -6,6 +6,7 @@ import Card from "../components/common/Card";
 import { useFilter } from "../context/FilterContext";
 import { filterProducts } from "../utils/filterProducts";
 import { sortProducts } from "../utils/sortProducts";
+import { useSearchParams } from "react-router-dom";
 
 const ProductsPage = () => {
   const { products, categories, loading, error } = useProducts();
@@ -20,6 +21,15 @@ const ProductsPage = () => {
     updatePriceRange,
     clearFilters,
   } = useFilter();
+
+  const [searchParams] = useSearchParams();
+  const queryCategory = searchParams.get("category");
+
+  useEffect(() => {
+    if (queryCategory) {
+      updateCategory(queryCategory);
+    }
+  }, [queryCategory]);
 
   const filtered = filterProducts(
     products,
