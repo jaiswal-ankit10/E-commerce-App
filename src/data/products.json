@@ -1,0 +1,893 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Stand",
+    "price": 1350,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=1",
+    "rating": 3.9,
+    "description": "High quality laptop stand ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 2,
+    "title": "Laptop Stand",
+    "price": 21925,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=2",
+    "rating": 4.4,
+    "description": "High quality laptop stand ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 3,
+    "title": "Bluetooth Speaker",
+    "price": 28294,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=3",
+    "rating": 4.3,
+    "description": "High quality bluetooth speaker ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 4,
+    "title": "Gaming Mouse",
+    "price": 14623,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=4",
+    "rating": 3.5,
+    "description": "High quality gaming mouse ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 5,
+    "title": "USB Hub",
+    "price": 27059,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=5",
+    "rating": 3.5,
+    "description": "High quality usb hub ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 6,
+    "title": "Smart Watch",
+    "price": 20275,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=6",
+    "rating": 3.9,
+    "description": "High quality smart watch ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 7,
+    "title": "Power Bank",
+    "price": 4998,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=7",
+    "rating": 4.0,
+    "description": "High quality power bank ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 8,
+    "title": "Wireless Earbuds",
+    "price": 27042,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=8",
+    "rating": 4.1,
+    "description": "High quality wireless earbuds ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 9,
+    "title": "Gaming Mouse",
+    "price": 11326,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=9",
+    "rating": 3.9,
+    "description": "High quality gaming mouse ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 10,
+    "title": "Webcam Cam",
+    "price": 10359,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=10",
+    "rating": 3.7,
+    "description": "High quality webcam cam ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 11,
+    "title": "Wireless Earbuds",
+    "price": 2541,
+    "category": "Electronics",
+    "image": "https://source.unsplash.com/600x600/?electronics&sig=11",
+    "rating": 4.7,
+    "description": "High quality wireless earbuds ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 12,
+    "title": "Jeans Denim",
+    "price": 10973,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=12",
+    "rating": 4.4,
+    "description": "High quality jeans denim ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 13,
+    "title": "Mens Tshirt",
+    "price": 10130,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=13",
+    "rating": 3.6,
+    "description": "High quality mens tshirt ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 14,
+    "title": "Mens Tshirt",
+    "price": 12340,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=14",
+    "rating": 4.7,
+    "description": "High quality mens tshirt ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 15,
+    "title": "Jeans Denim",
+    "price": 13577,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=15",
+    "rating": 3.6,
+    "description": "High quality jeans denim ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 16,
+    "title": "Leather Belt",
+    "price": 937,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=16",
+    "rating": 3.6,
+    "description": "High quality leather belt ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 17,
+    "title": "Baseball Cap",
+    "price": 14575,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=17",
+    "rating": 3.9,
+    "description": "High quality baseball cap ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 18,
+    "title": "Leather Belt",
+    "price": 11841,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=18",
+    "rating": 4.0,
+    "description": "High quality leather belt ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 19,
+    "title": "Sneakers Shoes",
+    "price": 17600,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=19",
+    "rating": 4.1,
+    "description": "High quality sneakers shoes ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 20,
+    "title": "Kurti Dress",
+    "price": 18218,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=20",
+    "rating": 4.2,
+    "description": "High quality kurti dress ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 21,
+    "title": "Sneakers Shoes",
+    "price": 16751,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=21",
+    "rating": 4.5,
+    "description": "High quality sneakers shoes ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 22,
+    "title": "Sports Shorts",
+    "price": 20119,
+    "category": "Fashion",
+    "image": "https://source.unsplash.com/600x600/?fashion&sig=22",
+    "rating": 3.9,
+    "description": "High quality sports shorts ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 23,
+    "title": "Hand Bag",
+    "price": 23326,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=23",
+    "rating": 3.9,
+    "description": "High quality hand bag ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 24,
+    "title": "Bracelet Gold",
+    "price": 16378,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=24",
+    "rating": 4.6,
+    "description": "High quality bracelet gold ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 25,
+    "title": "Laptop Sleeve",
+    "price": 18826,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=25",
+    "rating": 4.3,
+    "description": "High quality laptop sleeve ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 26,
+    "title": "Necklace Set",
+    "price": 10499,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=26",
+    "rating": 4.0,
+    "description": "High quality necklace set ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 27,
+    "title": "Necklace Set",
+    "price": 1107,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=27",
+    "rating": 4.5,
+    "description": "High quality necklace set ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 28,
+    "title": "Travel Wallet",
+    "price": 12701,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=28",
+    "rating": 4.2,
+    "description": "High quality travel wallet ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 29,
+    "title": "Formal Tie",
+    "price": 6781,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=29",
+    "rating": 3.5,
+    "description": "High quality formal tie ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 30,
+    "title": "Stainless Ring",
+    "price": 11686,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=30",
+    "rating": 3.6,
+    "description": "High quality stainless ring ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 31,
+    "title": "Leather Purse",
+    "price": 23518,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=31",
+    "rating": 4.1,
+    "description": "High quality leather purse ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 32,
+    "title": "Retro Sunglasses",
+    "price": 13618,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=32",
+    "rating": 4.6,
+    "description": "High quality retro sunglasses ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 33,
+    "title": "Stainless Ring",
+    "price": 26516,
+    "category": "Accessories",
+    "image": "https://source.unsplash.com/600x600/?accessories&sig=33",
+    "rating": 4.5,
+    "description": "High quality stainless ring ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 34,
+    "title": "Table Mat",
+    "price": 25632,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=34",
+    "rating": 4.4,
+    "description": "High quality table mat ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 35,
+    "title": "Door Mat",
+    "price": 9513,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=35",
+    "rating": 3.7,
+    "description": "High quality door mat ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 36,
+    "title": "Wall Clock",
+    "price": 17156,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=36",
+    "rating": 3.6,
+    "description": "High quality wall clock ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 37,
+    "title": "Table Mat",
+    "price": 10293,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=37",
+    "rating": 3.6,
+    "description": "High quality table mat ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 38,
+    "title": "Night Lamp",
+    "price": 8943,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=38",
+    "rating": 4.1,
+    "description": "High quality night lamp ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 39,
+    "title": "Curtains Set",
+    "price": 349,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=39",
+    "rating": 4.0,
+    "description": "High quality curtains set ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 40,
+    "title": "Curtains Set",
+    "price": 23932,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=40",
+    "rating": 5.0,
+    "description": "High quality curtains set ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 41,
+    "title": "Night Lamp",
+    "price": 27058,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=41",
+    "rating": 3.6,
+    "description": "High quality night lamp ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 42,
+    "title": "Umbrella",
+    "price": 2695,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=42",
+    "rating": 4.2,
+    "description": "High quality umbrella ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 43,
+    "title": "Flower Pot",
+    "price": 5460,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=43",
+    "rating": 4.8,
+    "description": "High quality flower pot ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 44,
+    "title": "Flower Pot",
+    "price": 29725,
+    "category": "Home",
+    "image": "https://source.unsplash.com/600x600/?home&sig=44",
+    "rating": 4.5,
+    "description": "High quality flower pot ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 45,
+    "title": "Basketball",
+    "price": 26704,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=45",
+    "rating": 3.8,
+    "description": "High quality basketball ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 46,
+    "title": "Punching Gloves",
+    "price": 21366,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=46",
+    "rating": 4.9,
+    "description": "High quality punching gloves ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 47,
+    "title": "Shuttle",
+    "price": 10715,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=47",
+    "rating": 3.9,
+    "description": "High quality shuttle ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 48,
+    "title": "Football",
+    "price": 2805,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=48",
+    "rating": 4.2,
+    "description": "High quality football ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 49,
+    "title": "Football",
+    "price": 335,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=49",
+    "rating": 3.6,
+    "description": "High quality football ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 50,
+    "title": "Basketball",
+    "price": 25009,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=50",
+    "rating": 4.3,
+    "description": "High quality basketball ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 51,
+    "title": "Tennis Racket",
+    "price": 26212,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=51",
+    "rating": 3.7,
+    "description": "High quality tennis racket ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 52,
+    "title": "Punching Gloves",
+    "price": 12303,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=52",
+    "rating": 4.1,
+    "description": "High quality punching gloves ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 53,
+    "title": "Shuttle",
+    "price": 26841,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=53",
+    "rating": 4.4,
+    "description": "High quality shuttle ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 54,
+    "title": "Basketball",
+    "price": 23212,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=54",
+    "rating": 4.4,
+    "description": "High quality basketball ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 55,
+    "title": "Football",
+    "price": 20426,
+    "category": "Sports",
+    "image": "https://source.unsplash.com/600x600/?sports&sig=55",
+    "rating": 4.0,
+    "description": "High quality football ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 56,
+    "title": "Dart Gun",
+    "price": 29338,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=56",
+    "rating": 4.5,
+    "description": "High quality dart gun ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 57,
+    "title": "Kitchen Toy",
+    "price": 20579,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=57",
+    "rating": 4.1,
+    "description": "High quality kitchen toy ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 58,
+    "title": "Robot Toy",
+    "price": 26181,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=58",
+    "rating": 5.0,
+    "description": "High quality robot toy ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 59,
+    "title": "Soft Teddy",
+    "price": 6217,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=59",
+    "rating": 4.7,
+    "description": "High quality soft teddy ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 60,
+    "title": "Doctor Kit",
+    "price": 27910,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=60",
+    "rating": 3.5,
+    "description": "High quality doctor kit ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 61,
+    "title": "Puzzle Board",
+    "price": 10178,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=61",
+    "rating": 4.6,
+    "description": "High quality puzzle board ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 62,
+    "title": "Mini Piano",
+    "price": 24931,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=62",
+    "rating": 4.3,
+    "description": "High quality mini piano ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 63,
+    "title": "Kitchen Toy",
+    "price": 3237,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=63",
+    "rating": 4.5,
+    "description": "High quality kitchen toy ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 64,
+    "title": "Doctor Kit",
+    "price": 24154,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=64",
+    "rating": 4.8,
+    "description": "High quality doctor kit ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 65,
+    "title": "Doctor Kit",
+    "price": 2568,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=65",
+    "rating": 4.4,
+    "description": "High quality doctor kit ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 66,
+    "title": "Building Blocks",
+    "price": 11327,
+    "category": "Toys",
+    "image": "https://source.unsplash.com/600x600/?toys&sig=66",
+    "rating": 4.5,
+    "description": "High quality building blocks ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 67,
+    "title": "Face Cream",
+    "price": 7031,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=67",
+    "rating": 4.2,
+    "description": "High quality face cream ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 68,
+    "title": "Nail Polish",
+    "price": 9231,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=68",
+    "rating": 3.6,
+    "description": "High quality nail polish ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 69,
+    "title": "Nail Polish",
+    "price": 28464,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=69",
+    "rating": 3.8,
+    "description": "High quality nail polish ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 70,
+    "title": "Makeup Brush",
+    "price": 4489,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=70",
+    "rating": 4.2,
+    "description": "High quality makeup brush ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 71,
+    "title": "Face Cream",
+    "price": 27755,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=71",
+    "rating": 4.1,
+    "description": "High quality face cream ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 72,
+    "title": "Makeup Kit",
+    "price": 12508,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=72",
+    "rating": 3.6,
+    "description": "High quality makeup kit ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 73,
+    "title": "Perfume Spray",
+    "price": 27840,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=73",
+    "rating": 5.0,
+    "description": "High quality perfume spray ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 74,
+    "title": "Perfume Spray",
+    "price": 23316,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=74",
+    "rating": 5.0,
+    "description": "High quality perfume spray ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 75,
+    "title": "Makeup Kit",
+    "price": 329,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=75",
+    "rating": 4.8,
+    "description": "High quality makeup kit ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 76,
+    "title": "Face Scrub",
+    "price": 3678,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=76",
+    "rating": 4.8,
+    "description": "High quality face scrub ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 77,
+    "title": "Herbal Shampoo",
+    "price": 15131,
+    "category": "Beauty",
+    "image": "https://source.unsplash.com/600x600/?beauty&sig=77",
+    "rating": 4.1,
+    "description": "High quality herbal shampoo ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 78,
+    "title": "Wheat Flour",
+    "price": 3830,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=78",
+    "rating": 5.0,
+    "description": "High quality wheat flour ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 79,
+    "title": "Cooking Oil",
+    "price": 10110,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=79",
+    "rating": 4.7,
+    "description": "High quality cooking oil ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 80,
+    "title": "Basmati Rice",
+    "price": 2215,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=80",
+    "rating": 4.2,
+    "description": "High quality basmati rice ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 81,
+    "title": "Wheat Flour",
+    "price": 29148,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=81",
+    "rating": 4.1,
+    "description": "High quality wheat flour ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 82,
+    "title": "Toor Dal",
+    "price": 22213,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=82",
+    "rating": 4.6,
+    "description": "High quality toor dal ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 83,
+    "title": "Toor Dal",
+    "price": 26664,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=83",
+    "rating": 3.9,
+    "description": "High quality toor dal ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 84,
+    "title": "Dry Fruits Mix",
+    "price": 26715,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=84",
+    "rating": 4.0,
+    "description": "High quality dry fruits mix ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 85,
+    "title": "Black Pepper",
+    "price": 19495,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=85",
+    "rating": 4.4,
+    "description": "High quality black pepper ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 86,
+    "title": "Wheat Flour",
+    "price": 8006,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=86",
+    "rating": 4.3,
+    "description": "High quality wheat flour ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 87,
+    "title": "Wheat Flour",
+    "price": 11609,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=87",
+    "rating": 4.6,
+    "description": "High quality wheat flour ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 88,
+    "title": "Brown Sugar",
+    "price": 2469,
+    "category": "Groceries",
+    "image": "https://source.unsplash.com/600x600/?groceries&sig=88",
+    "rating": 4.7,
+    "description": "High quality brown sugar ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 89,
+    "title": "Biology Basics",
+    "price": 8565,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=89",
+    "rating": 4.7,
+    "description": "High quality biology basics ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 90,
+    "title": "Space Science",
+    "price": 18882,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=90",
+    "rating": 3.5,
+    "description": "High quality space science ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 91,
+    "title": "Business Strategy",
+    "price": 12715,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=91",
+    "rating": 5.0,
+    "description": "High quality business strategy ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 92,
+    "title": "History India",
+    "price": 18023,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=92",
+    "rating": 4.8,
+    "description": "High quality history india ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 93,
+    "title": "Python Book",
+    "price": 16130,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=93",
+    "rating": 4.3,
+    "description": "High quality python book ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 94,
+    "title": "Biology Basics",
+    "price": 23127,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=94",
+    "rating": 4.4,
+    "description": "High quality biology basics ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 95,
+    "title": "Space Science",
+    "price": 21362,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=95",
+    "rating": 4.8,
+    "description": "High quality space science ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 96,
+    "title": "History India",
+    "price": 1946,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=96",
+    "rating": 4.1,
+    "description": "High quality history india ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 97,
+    "title": "History India",
+    "price": 22913,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=97",
+    "rating": 4.5,
+    "description": "High quality history india ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 98,
+    "title": "Business Strategy",
+    "price": 18971,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=98",
+    "rating": 4.4,
+    "description": "High quality business strategy ideal for daily use and long-lasting durability."
+  },
+  {
+    "id": 99,
+    "title": "History India",
+    "price": 23212,
+    "category": "Books",
+    "image": "https://source.unsplash.com/600x600/?books&sig=99",
+    "rating": 4.9,
+    "description": "High quality history india ideal for daily use and long-lasting durability."
+  }
+]
